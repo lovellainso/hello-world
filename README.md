@@ -8,3 +8,7 @@ Exploring out new things with markdown, I hope I am making this right.
 The title of this repo is **HELLO-WORLD**
 
 >Thank you - Lovella
+
+
+### I made this short message to edit this README file.
+### Commiting changes before cloning
