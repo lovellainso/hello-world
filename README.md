@@ -18,7 +18,7 @@ An in-depth paragraph about your project and overview of use.
 - How/where to download your program
 - Any modifications needed to be made to files/folders
 
-`code blocks for commands
+``code blocks for commands``
 
 ## License
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
