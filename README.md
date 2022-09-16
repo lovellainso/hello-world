@@ -1,14 +1,23 @@
 # hello-world
 My first repository on GitHub
 
-## This is my first lab activity in CPSC 4800 and trying out Markdown
 
-Exploring out new things with markdown, I hope I am making this right.
+# Project Title
+Simple Overview of the Project
 
-The title of this repo is **HELLO-WORLD**
+##Description
+An in-depth paragraph about your project and overview of use.
 
->Thank you - Lovella
+## Getting Started
+
+### Dependencies
+- Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+- ex. Windows 10
+
+### Dependencies
+- How/where to download your program
+- Any modifications needed to be made to files/folders
 
 
-### I made this short message to edit this README file.
-### Commiting changes before cloning
+## License
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
